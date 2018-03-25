@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ceremony & Reception
+title: Details
 permalink: /Ceremony
 ---
 
