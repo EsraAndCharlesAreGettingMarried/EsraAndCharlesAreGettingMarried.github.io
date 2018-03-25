@@ -5,7 +5,6 @@ description: >
   Charles And Esra Are Getting Married Website
 baseurl: ""
 url: "http://localhost:4000"
-iis_slider_array: []
 google_maps_javascript_api_key: "AIzaSyAkyQwpmF5_fUVMuBfpUNmjrap2v3g5R2E"
 # Build Settings
 sass:
