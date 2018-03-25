@@ -1,0 +1,18 @@
+$content-width: 800px;
+$main: #bf9b30;
+$font-style:'Paulistana Deco' ;
+$font-color: #bf9b30;
+$link-color: #bf9b30;
+$link-hover-color: $main;
+$heading-font: 'Raconteur NF';
+$heading-font-color: #bf9b30;
+$light: #E7EDF4;
+$header:  #1D1425;
+
+*,
+*::before,
+*::after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}

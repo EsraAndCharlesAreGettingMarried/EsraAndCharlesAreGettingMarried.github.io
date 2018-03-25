@@ -1,0 +1,25 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@font-face {
+	font-family: "Paulistana Deco";
+	src: url("../css/fonts/paulistana_deco-webfont.eot");
+	src: 
+	url("../css/fonts/paulistana_deco-webfont.woff") format("woff"),
+	url("../css/fonts/paulistana_deco-webfont.ttf") format("truetype"),
+	url("../css/fonts/paulistana_deco-webfont.svg#raconteurnf-webfont") format("svg");
+}
+@font-face {
+	font-family: "Raconteur NF";
+	src: url("../css/fonts/raconteurnf-webfont.eot");
+	src: 
+	url("../css/fonts/raconteurnf-webfont.woff") format("woff"),
+	url("../css/fonts/raconteurnf-webfont.ttf") format("truetype"),
+	url("../css/fonts/raconteurnf-webfont.svg#paulistana_deco-webfont") format("svg");
+}
+
+@import 
+  "base",
+  "layout",
+  "syntax-highlighting"

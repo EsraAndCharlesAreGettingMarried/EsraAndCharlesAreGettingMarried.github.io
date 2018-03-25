@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+   
+    {{ content }}
+	
+    {% if page.carousel %}
+    <div class="flexslider">
+      <ul class="slides">
+        {% for slides in page.carousel %}
+        <li>
+          <img src="{{ slides.image }}">
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
